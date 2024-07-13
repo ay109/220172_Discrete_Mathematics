@@ -1,5 +1,6 @@
 # 220172_Discrete_Mathematics
 To run the given code,
+
 -> Copy the code in notepad and save the file name as prob1.l also select the file type as All files.
 
 -> Go to the path of the prob1.l file and type the following commands in cmd :  
