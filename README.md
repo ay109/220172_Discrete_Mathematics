@@ -1,5 +1,5 @@
 # 220172_Discrete_Mathematics
-To run the given code,
+To run the given code(prob1.l),
 
 -> Copy the code in notepad and save the file name as prob1.l also select the file type as All files.
 
