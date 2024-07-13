@@ -5,14 +5,14 @@ To run the given code(prob1.l),
 
 -> Go to the path of the prob1.l file and type the following commands in cmd :  
 
-   1>>flex prob1.l  
+1>>flex prob1.l  
 
-  2>>gcc lex.yy.c 
+2>>gcc lex.yy.c 
 
-  3>>a public1.knp // a is the name of the .exe file generated and public1.knp is the input file 
+3>>a public1.knp // a is the name of the .exe file generated and public1.knp is the input file 
 
-  // You can check output for other .knp files by repeating Step3 and using the required .knp file name. 
+// You can check output for other .knp files by repeating Step3 and using the required .knp file name. 
 
-  // for example: a public2.knp 
+// for example: a public2.knp 
 
 **Make sure all the files are saved in the same folder.
